@@ -3,4 +3,4 @@ stampedosaurs
 
 2014 stampedosaurs biomod
 
-Use the repository to code the biomod website.
+Use the index to code the biomod website.
