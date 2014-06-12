@@ -1,4 +1,3 @@
 name: U of C Stampedosaurs
 markdown: redcarpet
 pygments: true
-baseurl: http://localhost:4000
