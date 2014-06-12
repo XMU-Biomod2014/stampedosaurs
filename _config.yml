@@ -1,4 +1,4 @@
 name: U of C Stampedosaurs
 markdown: redcarpet
 pygments: true
-baseurl: http://localhost:4000
+baseurl: http://biomod2014.github.io/stampedosaurs/
